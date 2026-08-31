@@ -1,0 +1,16 @@
+[
+  {
+    "text": "这部电影很不错",
+    "score": 0.99,
+    "label": "偏积极",
+    "pinyin": "zhè bù diàn yǐng hěn bú cuò",
+    "created_at": "2026-08-17T09:12:37+00:00"
+  },
+  {
+    "text": "牛来",
+    "score": 0.5,
+    "label": "中性",
+    "pinyin": "niú lái",
+    "created_at": "2026-08-17T09:12:51+00:00"
+  }
+]
